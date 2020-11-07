@@ -1,1 +1,2 @@
-# Newtons-Cradle-Capstone
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
